@@ -23,10 +23,10 @@ $ git clone https://github.com/leopacciulli/Explorando-repositorios.git
 # entrar na pasta do repositório
 $ cd explorando-repositorios
 
-#instalar as depêndencias
+# instalar as depêndencias
 $ yarn
 
-#rodar o projeto
+# rodar o projeto
 $ yarn start
 ```
 
