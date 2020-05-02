@@ -41,7 +41,7 @@ The Front-End was developed with React.JS and TypeScript. For standardization an
 <br>
 
 ## 🏁 Starting the project
-Clone the project: `git clone https://github.com/leopacciulli/Explorando-repositorios.git`
+Clone the project: `git clone https://github.com/leopacciulli/Exploring-repositories.git`
 
 <br>
 
