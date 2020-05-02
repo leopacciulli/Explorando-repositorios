@@ -49,7 +49,7 @@ Clone the project: `git clone https://github.com/leopacciulli/Exploring-reposito
 
 ````zsh
 # to enter the project folder
-$ cd explorando-repositorios
+$ cd Exploring-repositories
 
 # to download the dependencies
 $ yarn
