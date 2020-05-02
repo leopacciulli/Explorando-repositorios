@@ -2,9 +2,9 @@
   <img alt="GoStack" src="./src/assets/github.png" width="250px" />
 </h1>
 
-<h2 align="center">
+<h3 align="center">
   Exploring repositories on Github
-</h2>
+</h3>
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/leopacciulli/Explorando-repositorios?color=yellow">
@@ -12,8 +12,6 @@
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/leopacciulli/Explorando-repositorios?color=yellow">
 
   <img alt="GitHub repo size in bytes" src="https://img.shields.io/github/repo-size/leopacciulli/Explorando-repositorios?color=yellow">
-
-  <br>
 
   <img alt="TypeScript version" src="https://img.shields.io/badge/TypeScript-v3.8.3-007acc?style=flat&logoColor=007acc&logo=typescript">
 
